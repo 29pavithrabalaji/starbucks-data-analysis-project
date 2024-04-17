@@ -36,9 +36,6 @@ of the necessary libraries and software for this project.
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, 
 Starbucks sends out an offer to users of the mobile app. Using this dataset I have built a model that predict whether customers will respond to 
 offers or not.
-
-The Starbucks Udacity Data Scientist Nanodegree Capstone challenge data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Periodically, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). However, some users might not receive any offer during certain weeks. Using the data, I aim to :
-
     1. Gain understanding what types of customer characteristics and demographics are there.
     2. What offer should be sent to each customer ?
     3. How well can we predict customer response to offer ?
