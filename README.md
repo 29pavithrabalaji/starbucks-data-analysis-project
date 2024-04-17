@@ -13,8 +13,6 @@ Understanding our customers is the key providing them a good service and sustain
 
 Customer satisfaction drives business success and data analytics provides insight into what customers think. For example, the phrase "360-degree customer view" refers to aggregating data describing a customer's purchases and customer service interactions.
 
-The Starbucks Udacity Data Scientist Nanodegree Capstone challenge data set is a simulation of customer behavior on the Starbucks rewards mobile application. Periodically, Starbucks sends offers to users that may be an advertisement, discount, or buy one get on free (BOGO). An important characteristic regarding this dataset is that not all users receive the same offer.
-
 This data set contains three files. The first file describes the characteristics of each offer, including its duration and the amount a customer needs to spend to complete it (difficulty). The second file contains customer demographic data including their age, gender, income, and when they created an account on the Starbucks rewards mobile application. The third file describes customer purchases and when they received, viewed, and completed an offer. An offer is only successful when a customer both views an offer and meets or exceeds its difficulty within the offer's duration.
 
 ## Problem Statement / Metrics:
